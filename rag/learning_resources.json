@@ -1,0 +1,78 @@
+{
+  "reviewed_on": "2026-10-07",
+  "scope_note": "These are external introductory resources selected for navigation, not endorsements, job requirements, competency assessments or guarantees of free access. Review the provider's current content, version, prerequisites, accessibility and terms before academic or production use.",
+  "resources": [
+    {
+      "id": "python-official-tutorial",
+      "title": "The Python Tutorial",
+      "provider": "Python Software Foundation",
+      "url": "https://docs.python.org/3/tutorial/",
+      "skills": ["python", "programming", "functions", "data structures"],
+      "summary": "Introduces Python language features, data structures, modules, exceptions and classes. The provider says it assumes basic programming knowledge; it is not designed for learners new to programming.",
+      "reviewed_on": "2026-10-07"
+    },
+    {
+      "id": "postgresql-sql-tutorial",
+      "title": "PostgreSQL Tutorial",
+      "provider": "PostgreSQL Global Development Group",
+      "url": "https://www.postgresql.org/docs/current/tutorial.html",
+      "skills": ["sql", "databases", "relational data", "queries"],
+      "summary": "Introduces PostgreSQL, relational-database concepts and SQL through hands-on topics. SQL syntax and features may differ across database products.",
+      "reviewed_on": "2026-10-07"
+    },
+    {
+      "id": "openintro-statistics",
+      "title": "OpenIntro Statistics",
+      "provider": "OpenIntro",
+      "url": "https://www.openintro.org/book/os/",
+      "skills": ["statistics", "data analysis", "probability"],
+      "summary": "An introductory statistics book for college courses and self-study; its page offers a free PDF option. Check the book edition and learning objectives before following it.",
+      "reviewed_on": "2026-10-07"
+    },
+    {
+      "id": "scikit-learn-getting-started",
+      "title": "Getting Started",
+      "provider": "scikit-learn contributors",
+      "url": "https://scikit-learn.org/stable/getting_started.html",
+      "skills": ["machine learning", "ml", "model evaluation", "data science", "ai engineering"],
+      "summary": "Official documentation demonstrates fitting, prediction, preprocessing, pipelines, evaluation and parameter search. It assumes basic working knowledge of machine-learning practices.",
+      "reviewed_on": "2026-10-07"
+    },
+    {
+      "id": "seaborn-user-guide",
+      "title": "User guide and tutorial",
+      "provider": "Seaborn contributors",
+      "url": "https://seaborn.pydata.org/tutorial.html",
+      "skills": ["data visualization", "visualization", "charts", "statistics"],
+      "summary": "Official tutorials cover statistical relationships, distributions, categorical plots, statistical estimation and figure aesthetics.",
+      "reviewed_on": "2026-10-07"
+    },
+    {
+      "id": "pro-git-book",
+      "title": "Pro Git, Second Edition",
+      "provider": "Scott Chacon and Ben Straub; published by Apress",
+      "url": "https://git-scm.com/book/en/v2",
+      "skills": ["git", "github", "version control", "portfolio"],
+      "summary": "The authors' free online book covers version control, Git basics, branching, remote workflows and collaboration. The online version identifies itself as the 2014 second edition.",
+      "reviewed_on": "2026-10-07"
+    },
+    {
+      "id": "nist-nice-framework",
+      "title": "NICE Framework Resource Center",
+      "provider": "National Institute of Standards and Technology (NIST)",
+      "url": "https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center",
+      "skills": ["cybersecurity", "security", "cybersecurity career"],
+      "summary": "The NIST NICE Framework provides a common language for cybersecurity work, knowledge and skills, with resources for career discovery, education, training and workforce development. It is a workforce framework, not a personalized job-matching guarantee.",
+      "reviewed_on": "2026-10-07"
+    },
+    {
+      "id": "aws-cloud-practitioner",
+      "title": "Cloud Practitioner training",
+      "provider": "Amazon Web Services (AWS)",
+      "url": "https://aws.amazon.com/training/learn-about/cloud-practitioner/",
+      "skills": ["cloud", "cloud computing", "cloud engineering", "aws"],
+      "summary": "AWS offers a Cloud Essentials learning plan and other AWS-specific cloud fundamentals training. The service, terminology and examples are vendor-specific; review access and pricing conditions on the provider's current page.",
+      "reviewed_on": "2026-10-07"
+    }
+  ]
+}

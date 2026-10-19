@@ -1,0 +1,1 @@
+"""CareerInsight AI REST application."""

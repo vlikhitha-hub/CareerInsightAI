@@ -1,0 +1,7 @@
+# Machine-learning status
+
+CareerInsight AI currently uses a transparent, deterministic, backend-owned weighted scoring rule for learner-facing career rankings. The initial factor weights are configurable prototype assumptions, not fitted parameters or validated performance claims.
+
+No representative labeled career-outcome training dataset or pre-trained recommender was supplied with the project. Consequently, this repository does **not** claim to contain a trained ML predictor, and the application does not fabricate baseline/ML/LLM/RAG prediction outputs. The researcher-only evaluation API accepts ranked predictions produced by real experiments, requires all four method labels, validates career labels against the seeded catalogue, and computes metrics from those submitted cases. Its optional satisfaction, explanation-usefulness and response-time values must also be supplied as actual observations.
+
+Before adding a learned model, document the target outcome and cohort, obtain lawful representative labeled data, define data minimization and sensitive-attribute exclusions, establish leakage-safe train/validation/test splits, select a baseline and candidate model, record reproducible training/configuration details, and report uncertainty and limitations. Do not treat current career fit or users' existing occupations as a validated ground-truth outcome without justification. Add model artifacts, training/inference code, and actual model predictions only after this methodology and data exist.
